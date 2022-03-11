@@ -198,7 +198,7 @@ class Solution:
 
 [十大经典排序](https://www.cnblogs.com/onepixel/p/7674659.html)
 
-[二叉堆](https://labuladong.gitbook.io/algo/shu-ju-jie-gou-xi-lie/er-cha-dui-xiang-jie-shi-xian-you-xian-ji-dui-lie)
+[二叉堆](https://labuladong.gitee.io/algo/)
 
 ## 练习
 
