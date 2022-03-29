@@ -323,3 +323,17 @@ class Solution:
         
         return -1
 ```
+
+## 练习
+
+- [x] [kth-largest-element-in-a-stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+- [x] [kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [x] [find-k-pairs-with-smallest-sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)
+- [ ] [maximum-performance-of-a-team](https://leetcode-cn.com/problems/maximum-performance-of-a-team/)
+- [ ] [ipo](https://leetcode-cn.com/problems/ipo/)
+- [x] [meeting-rooms-ii](https://leetcode-cn.com/problems/meeting-rooms-ii/)
+- [x] [reorganize-string](https://leetcode-cn.com/problems/reorganize-string/)
+- [ ] [minimum-risk-path](https://www.lintcode.com/problem/minimum-risk-path/description)
+- [ ] [network-delay-time](https://leetcode-cn.com/problems/network-delay-time/)
+- [ ] [cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)
+
