@@ -193,9 +193,10 @@ class Solution:
 
 ## 练习
 
-- [ ] [single-number](https://leetcode-cn.com/problems/single-number/)
-- [ ] [single-number-ii](https://leetcode-cn.com/problems/single-number-ii/)
-- [ ] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
-- [ ] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
-- [ ] [counting-bits](https://leetcode-cn.com/problems/counting-bits/)
-- [ ] [reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)
+- [x] [single-number](https://leetcode-cn.com/problems/single-number/)
+- [x] [single-number-ii](https://leetcode-cn.com/problems/single-number-ii/)
+- [x] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
+- [x] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [x] [counting-bits](https://leetcode-cn.com/problems/counting-bits/)
+- [x] [reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)
+- [ ] [bitwise-and-of-numbers-range](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/)
