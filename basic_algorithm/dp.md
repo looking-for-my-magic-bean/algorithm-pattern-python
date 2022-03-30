@@ -4,7 +4,7 @@
 
 先从一道题目开始~
 
-如题  [triangle](https://leetcode-cn.com/problems/triangle/)
+### [triangle](https://leetcode-cn.com/problems/triangle/)
 
 > 给定一个三角形，找出自顶向下的最小路径和。每一步只能移动到下一行中相邻的结点上。
 
@@ -727,3 +727,11 @@ Backpack & Coin Change (10%)
 - [ ] [coin-change](https://leetcode-cn.com/problems/coin-change/)
 - [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
 - [ ] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
+
+进阶-补充
+- [ ] [maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
+- [ ] [decode-ways](https://leetcode-cn.com/problems/decode-ways/)
+- [ ] [best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [ ] [word-break-ii](https://leetcode-cn.com/problems/word-break-ii/)
+- [ ] [burst-balloons](https://leetcode-cn.com/problems/burst-balloons/)
+
