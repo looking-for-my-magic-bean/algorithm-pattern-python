@@ -703,16 +703,16 @@ class Solution:
 
 Matrix DP (10%)
 
-- [ ] [triangle](https://leetcode-cn.com/problems/triangle/)
-- [ ] [minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)
-- [ ] [unique-paths](https://leetcode-cn.com/problems/unique-paths/)
-- [ ] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
+- [x] [triangle](https://leetcode-cn.com/problems/triangle/)
+- [x] [minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)
+- [x] [unique-paths](https://leetcode-cn.com/problems/unique-paths/)
+- [x] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
 
 Sequence (40%)
 
-- [ ] [climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
-- [ ] [jump-game](https://leetcode-cn.com/problems/jump-game/)
-- [ ] [jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii/)
+- [x] [climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+- [x] [jump-game](https://leetcode-cn.com/problems/jump-game/)
+- [x] [jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii/)
 - [ ] [palindrome-partitioning-ii](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 - [ ] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - [ ] [word-break](https://leetcode-cn.com/problems/word-break/)
