@@ -725,8 +725,8 @@ Two Sequences DP (40%)
 Backpack & Coin Change (10%)
 
 - [x] [coin-change](https://leetcode-cn.com/problems/coin-change/)
-- [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
-- [ ] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
+- [x] [backpack](https://www.lintcode.com/problem/backpack/description)
+- [x] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
 
 进阶-补充
 - [ ] [maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)
