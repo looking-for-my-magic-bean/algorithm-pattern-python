@@ -713,14 +713,14 @@ Sequence (40%)
 - [x] [climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
 - [x] [jump-game](https://leetcode-cn.com/problems/jump-game/)
 - [x] [jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii/)
-- [ ] [palindrome-partitioning-ii]!(https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
+## - [ ] [palindrome-partitioning-ii](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
 - [x] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 - [x] [word-break](https://leetcode-cn.com/problems/word-break/)
 
 Two Sequences DP (40%)
 
 - [x] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
-- [ ] [edit-distance]!(https://leetcode-cn.com/problems/edit-distance/)
+- [ ] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
 
 Backpack & Coin Change (10%)
 
