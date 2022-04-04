@@ -164,3 +164,8 @@ class Solution:
             if union(x, y) and find(0) == find(N): # early return without constructing MST
                 return w
 ```
+
+- [ ] [redundant-connection](https://leetcode-cn.com/problems/redundant-connection/)
+- [ ] [accounts-merge](https://leetcode-cn.com/problems/accounts-merge/)
+- [ ] [longest-consecutive-sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+- [ ] [minimum-risk-path](https://www.lintcode.com/problem/minimum-risk-path/description)
