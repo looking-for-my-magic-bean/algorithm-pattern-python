@@ -714,17 +714,17 @@ Sequence (40%)
 - [x] [jump-game](https://leetcode-cn.com/problems/jump-game/)
 - [x] [jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii/)
 - [ ] [palindrome-partitioning-ii](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
-- [ ] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
-- [ ] [word-break](https://leetcode-cn.com/problems/word-break/)
+- [x] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [x] [word-break](https://leetcode-cn.com/problems/word-break/)
 
 Two Sequences DP (40%)
 
-- [ ] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- [x] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
 - [ ] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
 
 Backpack & Coin Change (10%)
 
-- [ ] [coin-change](https://leetcode-cn.com/problems/coin-change/)
+- [x] [coin-change](https://leetcode-cn.com/problems/coin-change/)
 - [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
 - [ ] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
 
