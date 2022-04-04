@@ -720,7 +720,7 @@ Sequence (40%)
 Two Sequences DP (40%)
 
 - [x] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
-- [ ] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
+- [ ] **[edit-distance](https://leetcode-cn.com/problems/edit-distance/)**
 
 Backpack & Coin Change (10%)
 
