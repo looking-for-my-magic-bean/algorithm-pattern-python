@@ -164,6 +164,7 @@ class Solution:
             if union(x, y) and find(0) == find(N): # early return without constructing MST
                 return w
 ```
+## 练习
 
 - [ ] [redundant-connection](https://leetcode-cn.com/problems/redundant-connection/)
 - [ ] [accounts-merge](https://leetcode-cn.com/problems/accounts-merge/)
